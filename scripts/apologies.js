@@ -16,6 +16,7 @@ const things_i_like = [
     "The way you don't care about anything except right and wrong",
     "The way you care for those around you no matter what's going on or what you're doing",
     "Your drive and competitiveness - its hot",
+    "How you don't tolerate bullshit from anyone no matter who they are to you",
     "Your disrespect towards deserving people and things - like narcissists, or mansplainers, or gatekeepers, or whatever all-in-1 nutcase you had to deal with that Tuesday night",
     "How much your friends love you - despite asking me 'why her?' and pitying me or whatever 😂",
     "How your friends always agree with me when I say nice things about you - because I'm right about youuu",
@@ -39,11 +40,15 @@ const things_i_like = [
     "How well you're able to assess situations of any kind - social, emotional, professional...",
     "Your singing (yes I've heard it a few times and I genuinely love it)",
     "Your voice in general - how sweet it sounds and how it puts me at peace",
-    "The way you say 'I love you' and 'I ammm' and 'That's meee' - its so cuteee and makes me warm and happy",
+    "The way you say 'I loooove you' and 'I ammm' and 'That's meee' - its so cuteee and makes me warm and happy",
     "How you're always up for anything I wanna do with you no matter how random it is",
     "How sweetly you hold me in your arms when I wanna rest or nap",
     "How you never give up on other people - unless they push you too far of course",
-    "How you "
+    "How you always keep tabs on me throughout my day and keep telling me little details about yours :)",
+    "The way you hold on to my arm when we're together",
+    "The pretty flowers you got me that matched your top",
+    "The sound of your breath while you're asleep",
+    "How much you love me and how confident you are in us"
 ];
 
 document.addEventListener("DOMContentLoaded", function () {

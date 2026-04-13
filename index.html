@@ -29,12 +29,17 @@
 
     <div class="form-container">
       <form id="password-form">
-        <label for="password-input">Where did we first kiss?</label>
-        <input id="password-input" placeholder="Password" required />
-        <button type="submit">Enter</button>
+        <div class="form-group">
+          <label for="password-input" class="form-label">Where did we first kiss?</label>
+          <input id="password-input" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Enter</button>
       </form>
       <div id="wrong-password" style="color: whitesmoke; display: none;">
         That's not what its called babyyy
+      </div>
+      <div id="correct-password" style="color: whitesmoke; display: none;">
+        That's right! :)
       </div>
     </div>
 
