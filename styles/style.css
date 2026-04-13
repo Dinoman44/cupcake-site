@@ -1,11 +1,19 @@
 body {
   margin: 0;
   font-family: sans-serif;
+  background-color: rgb(56, 56, 135);
+  color: white;
+}
+
+#main {
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+  width: 80vw;
 }
 
 #navbar {
-  display: none;
-  background-color: #333;
+  background-color: rgb(108, 108, 170);
   padding: 10px 20px;
 }
 
@@ -45,4 +53,12 @@ button[type="submit"] {
   padding: 8px 20px;
   font-size: 1rem;
   cursor: pointer;
+}
+
+a {
+  color: #ccc;
+}
+
+ol {
+  font-size: large;
 }
