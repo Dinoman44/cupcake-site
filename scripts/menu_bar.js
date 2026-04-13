@@ -3,7 +3,9 @@ const PASSWORD = "skyville";
 document.addEventListener("DOMContentLoaded", function () {
   const form = document.getElementById("password-form");
   const navbar = document.getElementById("navbar");
+  navbar.style.display = "none";
   const main = document.getElementById("main");
+  main.style.display = "none";
   const wrongPasswordMessage = document.getElementById("wrong-password");
   const correctPasswordMessage = document.getElementById("correct-password");
 
